@@ -6,6 +6,8 @@
 # Description: This app is intended to collect data from biometric attendance devices and send them to the odoo server.
 #
 
+from install import *
+import read_config
 from time import sleep
 from time import process_time
 from time import time
@@ -22,9 +24,8 @@ from urllib.parse import urlparse, urlunsplit, ParseResult
 import logging
 from logging.handlers import RotatingFileHandler
 
-LOG_FILE = '/var/log/odoo/sd_food_autorun.log'
 if not os.path.isfile(LOG_FILE):
-    LOG_FILE = 'sd_food_autorun.log'
+    LOG_FILE = 'odoo_food_devices.log'
 
 # logging.basicConfig(filename=LOG_FILE,
 #                     level='INFO',
@@ -133,7 +134,7 @@ def zk_tech_handler(id, tz, url, zk, records, set_time, verbose):
             conn.enable_device()
             conn.disconnect()
     except Exception as e:
-        if verbose: print(f'ID:[{id}][zk_tech_handler] Error 2 > {e}')
+        if verbose: print(f'{sys._getframe().f_lineno}ID:[{id}][zk_tech_handler] Error 2 > {e}')
         logging.error(f'ID:[{id}] Error 2 > {e}')
     return (new_attendance, records, 'ok')
 
@@ -211,23 +212,27 @@ def this_loop(url, verbose):
     while not exit:
         try:
             response = requests.post(url, json={'device_ids': True})
-            if json.loads(response.text).get('result'):
-                device_ids = set(json.loads(json.loads(response.text).get('result')).get('device_ids'))
-                en_list = device_ids
-            active_threads = {int((tr.name).replace(THEARED_PREFIX + '_', '')) for tr in threading.enumerate()
-                              if tr.name[:len(THEARED_PREFIX)] == THEARED_PREFIX}
+            if 'jsonrpc' in str(response.content):
+                if json.loads(response.text).get('result'):
+                    device_ids = set(json.loads(json.loads(response.text).get('result')).get('device_ids'))
+                    en_list = device_ids
+                active_threads = {int((tr.name).replace(THEARED_PREFIX + '_', '')) for tr in threading.enumerate()
+                                if tr.name[:len(THEARED_PREFIX)] == THEARED_PREFIX}
 
-            #             print('=======', device_ids, active_threads, device_ids.difference(active_threads))
-            if device_ids.difference(active_threads):
-                id = list(device_ids.difference(active_threads))[0]
-                tr = threading.Thread(target=device_capture, args=(id, url, verbose), name=f'{THEARED_PREFIX}_{id}')
-                tr.daemon = True
-                tr.start()
+                #             print('=======', device_ids, active_threads, device_ids.difference(active_threads))
+                if device_ids.difference(active_threads):
+                    id = list(device_ids.difference(active_threads))[0]
+                    tr = threading.Thread(target=device_capture, args=(id, url, verbose), name=f'{THEARED_PREFIX}_{id}')
+                    tr.daemon = True
+                    tr.start()
+            else:
+                if verbose: print(f'{os.path.basename(__file__)}:{sys._getframe().f_lineno} ERROR: There is no "jsonrpc" in response. Check your url')
+            logging.error(f'ERROR: There is no "jsonrpc" in response. Check your url')
             sleep(3)
         except Exception as e:
             if verbose:
-                print(f'ERROR: {e}')
-            logging.error(f'[this_loop] ERROR: {e}')
+                print(f'{os.path.basename(__file__)}:{sys._getframe().f_lineno} ERROR: {e}')
+            logging.error(f'ERROR: {e}')
 
             sleep(3)
     if verbose:
@@ -243,9 +248,18 @@ def main(args):
     )
     parser.add_argument('--url', '-u', help='Base url of the server: e.g. https://oeid.gilaneh.com')
     parser.add_argument('--verbose', '-v',  action='count', default=0)
+    parser.add_argument('--install', '-i',  action='count', default=0)
+    parser.add_argument('--config', '-c', help='config file: e.g. /etc/odoo/odoo_food_devices.conf')
     opt, unknown = parser.parse_known_args(args)
     if opt.verbose:
         verbose = True
+
+    if opt.install:
+        print(install(logging, verbose))
+        sys.exit()
+
+    if opt.config:
+        url, LOG_FILE = read_config.read(opt.config)
 
     if opt.url and urlparse(opt.url).netloc:
         url_parse = urlparse(opt.url)
@@ -253,10 +267,11 @@ def main(args):
             print(url_parse, url_parse.scheme)
         scheme = url_parse.scheme if url_parse.scheme in ['http', 'https'] else 'https'
         url = scheme + '://' + url_parse.netloc + SERVER_PATH
-    else:
+    elif not url:
         logging.error(f'[PARAMS] wrong parameters \n     {str(parser.parse_known_args())}')
         parser.print_help()
         sys.exit()
+    
     tr = threading.Thread(target=this_loop, args=(url, verbose), daemon=True)
     tr.start()
     print(f'[SERVICE STARTED]\n        url: {url}')

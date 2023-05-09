@@ -1,0 +1,972 @@
+2023-05-09 18:21:54,973 INFO [main(),odoo_food_devices.py:L278] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:21:54,973 INFO [main(),odoo_food_devices.py:L279] url: http://star.oeid.ir
+2023-05-09 18:21:54,985 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:21:57,991 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:00,994 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:04,005 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:07,021 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:10,032 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:13,047 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:16,062 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:19,072 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:22,083 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:25,101 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:28,110 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:31,125 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:34,137 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:37,157 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:40,176 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:43,191 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:46,200 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:49,215 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:52,231 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:55,261 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:22:58,276 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:01,298 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:04,319 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:07,334 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:10,356 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:13,379 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:16,389 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:19,406 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:22,422 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:25,449 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:28,472 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:31,485 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:34,500 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:37,510 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:40,523 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:43,543 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:46,557 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:49,563 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:52,582 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:55,605 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:23:58,614 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:01,624 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:04,637 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:07,658 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:10,667 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:13,684 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:16,700 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:19,717 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:22,735 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:25,752 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:28,767 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:31,780 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:34,795 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:37,803 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:40,817 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:41,604 ERROR [main(),odoo_food_devices.py:L285] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:24:42,545 INFO [main(),odoo_food_devices.py:L278] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:24:42,545 INFO [main(),odoo_food_devices.py:L279] url: http://star.oeid.ir
+2023-05-09 18:24:42,554 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:45,562 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:48,575 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:51,593 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:54,615 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:24:57,631 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:00,636 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:03,655 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:06,668 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:09,677 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:12,688 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:15,696 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:18,712 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:21,730 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:24,743 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:27,774 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:30,789 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:33,799 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:36,814 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:39,828 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:42,846 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:45,862 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:48,870 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:51,894 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:54,911 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:25:57,943 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:00,962 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:03,987 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:06,999 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:10,017 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:13,033 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:16,050 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:19,063 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:22,079 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:25,096 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:28,112 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:28,353 ERROR [main(),odoo_food_devices.py:L285] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:26:30,167 INFO [main(),odoo_food_devices.py:L278] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:26:30,167 INFO [main(),odoo_food_devices.py:L279] url: http://star.oeid.ir
+2023-05-09 18:26:30,175 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:33,196 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:36,205 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:39,222 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:42,237 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:45,249 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:48,265 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:51,284 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:54,293 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:26:57,298 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:00,318 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:03,336 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:06,351 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:09,358 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:10,977 ERROR [main(),odoo_food_devices.py:L285] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:27:12,265 INFO [main(),odoo_food_devices.py:L278] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:27:12,265 INFO [main(),odoo_food_devices.py:L279] url: http://star.oeid.ir
+2023-05-09 18:27:12,272 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:15,285 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:18,301 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:21,318 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:24,332 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:27,342 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:30,356 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:33,375 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:36,396 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:39,417 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:42,424 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:45,438 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:48,452 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:51,470 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:54,487 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:27:57,495 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:00,509 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:03,520 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:06,538 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:09,548 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:12,567 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:15,576 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:18,590 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:21,605 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:24,616 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:27,622 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:30,650 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:33,666 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:36,676 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:39,684 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:42,699 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:45,715 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:48,721 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:51,736 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:54,744 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:28:57,751 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:00,769 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:03,784 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:06,797 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:09,817 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:12,828 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:15,840 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:18,855 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:21,870 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:24,890 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:27,905 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:30,924 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:33,942 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:36,957 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:29:39,148 ERROR [main(),odoo_food_devices.py:L285] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:29:40,502 INFO [main(),odoo_food_devices.py:L278] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:29:40,502 INFO [main(),odoo_food_devices.py:L279] url: http://star.oeid.ir
+2023-05-09 18:29:49,140 ERROR [main(),odoo_food_devices.py:L285] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:29:50,223 INFO [main(),odoo_food_devices.py:L278] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:29:50,224 INFO [main(),odoo_food_devices.py:L279] url: http://star.oeid.ir
+2023-05-09 18:29:59,874 ERROR [main(),odoo_food_devices.py:L285] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:30:00,809 INFO [main(),odoo_food_devices.py:L278] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:30:00,810 INFO [main(),odoo_food_devices.py:L279] url: http://star.oeid.ir
+2023-05-09 18:30:00,818 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:03,831 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:06,841 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:09,855 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:12,870 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:15,884 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:18,896 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:21,913 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:24,923 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:27,943 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:30,949 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:33,961 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:36,980 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:39,985 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:43,001 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:46,016 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:49,038 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:52,047 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:55,065 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:30:58,083 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:01,090 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:04,110 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:07,122 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:10,135 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:13,149 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:16,169 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:19,193 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:22,206 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:25,224 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:28,237 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:31,250 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:34,272 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:37,281 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:40,295 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:43,314 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:46,331 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:49,349 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:52,366 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:55,375 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:31:58,384 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:01,395 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:04,422 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:07,440 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:10,455 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:13,473 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:16,489 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:19,495 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:22,513 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:25,528 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:28,542 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:31,549 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:34,561 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:37,568 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:40,593 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:43,611 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:46,625 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:49,643 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:52,660 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:55,675 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:32:58,694 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:01,705 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:04,720 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:07,726 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:10,736 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:13,750 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:16,762 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:19,774 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:22,783 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:25,795 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:28,816 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:31,828 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:34,850 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:37,856 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:40,866 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:43,880 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:46,895 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:49,918 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:52,930 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:55,944 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:33:58,953 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:01,966 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:04,984 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:08,006 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:11,025 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:14,036 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:17,050 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:20,068 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:23,076 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:26,084 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:29,094 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:32,111 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:35,133 ERROR [this_loop(),odoo_food_devices.py:L230] [this_loop] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:37,221 ERROR [main(),odoo_food_devices.py:L285] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:34:38,840 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:34:38,840 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:34:38,848 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:41,860 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:44,873 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:47,894 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:50,912 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:53,924 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:56,928 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:34:58,227 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:34:59,287 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:34:59,287 INFO [main(),odoo_food_devices.py:L281] url: https://star.oeid.ir
+2023-05-09 18:35:49,098 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:35:50,302 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:35:50,302 INFO [main(),odoo_food_devices.py:L281] url: https://star.oeid.ir
+2023-05-09 18:36:00,732 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:36:02,036 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:36:02,036 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:36:02,043 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:05,048 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:08,073 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:11,088 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:14,098 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:17,108 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:20,122 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:23,136 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:26,159 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:29,169 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:32,187 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:35,202 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:38,220 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:41,240 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:44,256 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:47,267 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:50,283 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:52,515 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:36:54,057 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:36:54,057 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:36:54,069 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:36:57,091 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:00,116 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:03,130 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:06,140 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:09,157 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:12,168 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:15,190 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:18,204 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:21,213 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:24,228 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:27,245 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:30,261 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:33,277 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:36,288 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:39,298 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:42,312 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:45,331 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:48,336 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:51,354 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:54,362 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:37:57,383 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:00,396 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:03,407 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:06,420 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:09,437 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:12,447 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:15,455 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:18,468 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:19,116 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:38:20,573 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:38:20,574 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:38:20,582 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:23,609 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:26,627 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:29,644 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:32,657 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:35,679 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:38,702 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:41,714 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:44,730 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:47,747 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:50,767 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:53,781 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:56,787 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:38:57,153 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:38:58,145 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:38:58,145 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:38:58,154 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:01,162 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:04,174 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:07,181 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:10,197 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:13,211 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:16,227 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:19,245 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:22,253 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:23,284 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:39:24,470 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:39:24,470 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:39:24,479 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:27,489 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:30,500 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:39:31,677 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:40:08,398 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:40:08,398 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:40:08,407 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:40:11,420 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:40:14,438 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:40:17,459 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:40:20,470 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:40:23,485 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:40:26,502 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:40:29,508 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:40:32,518 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:40:34,241 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:40:35,352 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:40:35,353 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:40:35,361 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:40:38,377 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:40:41,393 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:40:44,400 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:40:47,414 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:40:50,436 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:40:53,459 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:40:56,469 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:40:59,475 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:41:02,486 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:41:05,500 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: the JSON object must be str, bytes or bytearray, not Response
+2023-05-09 18:41:06,546 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:41:07,610 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:41:07,611 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:41:07,644 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:10,692 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:13,745 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:16,781 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:19,842 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:22,890 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:25,928 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:28,977 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:32,027 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:35,107 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:38,147 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:41,219 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:44,275 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:47,348 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:50,392 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:53,450 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:56,492 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:41:59,569 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:02,642 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:05,721 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:08,783 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:11,823 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:14,876 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:17,945 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:21,006 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:24,102 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:27,162 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:30,220 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:33,288 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:36,352 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:39,425 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:42,496 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:45,579 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:48,644 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:51,737 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:54,802 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:42:57,856 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:00,924 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:03,959 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:07,039 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:10,096 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:13,171 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:16,259 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:19,292 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:22,373 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:25,436 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:28,479 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:31,554 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:34,644 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:37,702 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:40,743 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:43,804 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:46,870 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:49,927 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:52,984 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:56,026 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:43:59,086 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:02,135 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:05,182 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:08,245 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:11,321 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:14,355 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:17,401 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:20,430 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:23,468 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:26,533 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:29,575 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:32,612 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:35,648 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:38,692 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:41,748 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:44,808 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:47,888 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:50,965 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:54,017 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:44:57,057 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:00,112 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:03,178 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:06,209 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:09,271 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:12,318 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:15,360 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:18,418 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:21,461 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:24,528 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:27,568 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:30,614 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:33,663 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:36,715 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:39,763 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:42,828 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:45,888 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:48,934 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:52,016 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:55,088 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:45:58,157 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:01,217 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:04,276 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:07,333 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:10,409 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:13,460 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:16,510 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:19,574 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:22,627 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:25,671 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:28,722 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:31,762 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:34,798 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:37,839 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:40,891 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:43,943 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:47,003 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:50,056 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:53,117 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:56,154 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:46:59,202 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:02,263 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:05,306 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:08,387 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:11,424 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:14,486 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:17,550 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:20,624 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:23,684 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:26,727 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:29,766 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:32,817 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:35,857 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:38,915 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:41,968 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:45,015 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:48,059 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:47:49,267 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:50:42,592 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:50:42,592 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:50:42,599 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:50:45,612 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:50:48,622 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:50:51,632 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:50:54,642 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:50:57,658 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:00,667 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:03,686 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:06,705 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:09,728 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:12,745 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:15,761 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:18,784 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:21,792 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:24,801 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:27,814 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:30,827 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:33,844 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:36,869 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:39,876 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:42,672 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:51:43,748 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:51:43,749 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:51:43,760 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:46,771 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:49,792 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:52,804 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:55,819 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:51:58,841 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:01,864 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:04,874 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:07,879 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:10,900 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:13,919 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:16,931 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:19,951 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:22,969 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:25,976 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:28,991 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:32,003 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:35,024 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:38,033 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:41,056 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:44,080 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:47,060 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:52:48,075 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:52:48,075 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:52:48,090 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:51,124 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:54,155 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:52:57,183 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:00,228 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:03,260 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:06,282 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:09,302 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:12,329 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:15,368 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:18,391 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:21,407 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:24,445 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:27,480 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:30,510 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:33,544 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:36,569 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:39,589 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:53:40,509 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:53:41,672 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:53:41,672 INFO [main(),odoo_food_devices.py:L281] url: https://star.oeid.ir
+2023-05-09 18:54:48,434 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:54:49,520 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:54:49,520 INFO [main(),odoo_food_devices.py:L281] url: https://star.oeid.ir
+2023-05-09 18:54:49,543 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:54:52,570 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:54:55,597 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:54:58,625 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:01,661 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:04,688 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:07,721 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:10,743 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:13,776 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:16,800 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:19,836 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:22,867 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:25,892 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:28,926 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:31,958 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:34,990 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:38,018 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:41,042 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:44,067 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:47,092 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:50,125 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: 'bytes' object has no attribute 'get'
+2023-05-09 18:55:51,117 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:55:52,061 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:55:52,061 INFO [main(),odoo_food_devices.py:L281] url: https://star.oeid.ir
+2023-05-09 18:56:02,788 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:56:03,944 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:56:03,945 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:56:03,954 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:06,972 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:09,978 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:12,992 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:15,998 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:19,013 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:22,030 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:25,042 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:28,064 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:31,076 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:34,092 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:37,115 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:40,134 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:43,146 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:46,157 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:49,173 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:52,194 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:55,200 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:56:58,211 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:01,221 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:04,232 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:07,253 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:10,264 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:13,278 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:16,283 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:19,299 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:22,314 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:22,450 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:57:23,514 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:57:23,514 INFO [main(),odoo_food_devices.py:L281] url: http://star.oeid.ir
+2023-05-09 18:57:23,521 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:26,530 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:29,538 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:32,558 ERROR [this_loop(),odoo_food_devices.py:L232] ERROR: Expecting value: line 2 column 1 (char 1)
+2023-05-09 18:57:35,005 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:57:36,195 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:57:36,196 INFO [main(),odoo_food_devices.py:L281] url: https://star.oeid.ir
+2023-05-09 18:58:09,561 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:58:10,476 INFO [main(),odoo_food_devices.py:L281] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:58:10,476 INFO [main(),odoo_food_devices.py:L282] url: https://star.oeid.ir
+2023-05-09 18:59:46,435 ERROR [main(),odoo_food_devices.py:L288] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 18:59:47,898 INFO [main(),odoo_food_devices.py:L281] ==========  [SERVICE STARTED]  ==========
+2023-05-09 18:59:47,899 INFO [main(),odoo_food_devices.py:L282] url: https://intranet.oeid.ir
+2023-05-09 19:00:00,792 ERROR [main(),odoo_food_devices.py:L288] [SERVICE Terminated] url:intranet.oeid.ir
+2023-05-09 19:00:02,641 INFO [main(),odoo_food_devices.py:L281] ==========  [SERVICE STARTED]  ==========
+2023-05-09 19:00:02,642 INFO [main(),odoo_food_devices.py:L282] url: http://intranet.oeid.ir
+2023-05-09 19:00:18,950 ERROR [main(),odoo_food_devices.py:L288] [SERVICE Terminated] url:intranet.oeid.ir
+2023-05-09 19:00:24,175 INFO [main(),odoo_food_devices.py:L281] ==========  [SERVICE STARTED]  ==========
+2023-05-09 19:00:24,176 INFO [main(),odoo_food_devices.py:L282] url: http://intranet.oeid.ir
+2023-05-09 19:00:45,217 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B4030FA290>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:01:09,264 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B4030FB940>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:01:33,322 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B4031540D0>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:01:57,352 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B4030FB340>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:02:21,388 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B4030FAB60>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:02:45,420 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B403154820>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:03:09,494 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B403154F70>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:03:33,555 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B4031556C0>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:03:57,633 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B4030FA890>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:04:21,680 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B4030FBF70>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:04:45,756 ERROR [this_loop(),odoo_food_devices.py:L233] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002B4031551E0>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:04:49,301 ERROR [main(),odoo_food_devices.py:L288] [SERVICE Terminated] url:intranet.oeid.ir
+2023-05-09 19:04:50,732 INFO [main(),odoo_food_devices.py:L283] ==========  [SERVICE STARTED]  ==========
+2023-05-09 19:04:50,732 INFO [main(),odoo_food_devices.py:L284] url: http://intranet.oeid.ir
+2023-05-09 19:05:11,786 ERROR [this_loop(),odoo_food_devices.py:L235] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002CF6F3CEA10>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:05:35,838 ERROR [this_loop(),odoo_food_devices.py:L235] ERROR: HTTPConnectionPool(host='intranet.oeid.ir', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002CF6F420100>, 'Connection to intranet.oeid.ir timed out. (connect timeout=None)'))
+2023-05-09 19:05:57,165 ERROR [main(),odoo_food_devices.py:L290] [SERVICE Terminated] url:intranet.oeid.ir
+2023-05-09 19:05:58,639 INFO [main(),odoo_food_devices.py:L283] ==========  [SERVICE STARTED]  ==========
+2023-05-09 19:05:58,639 INFO [main(),odoo_food_devices.py:L284] url: http://star.oeid.ir
+2023-05-09 19:05:58,650 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:01,670 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:04,693 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:07,711 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:10,726 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:13,751 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:16,762 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:19,777 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:22,795 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:25,818 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:28,841 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:31,859 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:34,874 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:37,887 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:40,908 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:43,918 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:46,931 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:49,938 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:52,953 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:55,966 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:06:58,980 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:01,987 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:04,998 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:08,010 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:11,021 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:13,139 ERROR [main(),odoo_food_devices.py:L290] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 19:07:15,257 INFO [main(),odoo_food_devices.py:L283] ==========  [SERVICE STARTED]  ==========
+2023-05-09 19:07:15,257 INFO [main(),odoo_food_devices.py:L284] url: http://star.oeid.ir
+2023-05-09 19:07:15,267 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:18,284 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:21,298 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:24,312 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:27,324 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:29,214 ERROR [main(),odoo_food_devices.py:L290] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 19:07:32,699 INFO [main(),odoo_food_devices.py:L283] ==========  [SERVICE STARTED]  ==========
+2023-05-09 19:07:32,700 INFO [main(),odoo_food_devices.py:L284] url: http://star.oeid.ir
+2023-05-09 19:07:32,709 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:35,716 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:38,731 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:41,741 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:44,752 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:47,767 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:50,774 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:53,787 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:56,796 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:07:59,816 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:02,839 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:05,850 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:08,869 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:11,878 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:14,892 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:17,912 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:20,924 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:23,947 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:26,960 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:29,979 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:33,002 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:36,017 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:39,036 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:42,044 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:45,057 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:48,063 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:51,071 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:54,093 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:08:57,108 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:00,119 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:03,132 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:06,145 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:09,156 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:12,168 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:15,190 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:18,201 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:21,224 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:24,244 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:27,267 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:30,282 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:33,297 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:36,316 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:39,336 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:42,349 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:45,363 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:48,379 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:51,394 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:54,403 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:09:57,417 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:00,428 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:03,450 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:06,459 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:09,465 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:12,469 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:15,475 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:18,493 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:21,510 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:24,530 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:27,544 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:30,558 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:33,578 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:36,596 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:39,618 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:42,633 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:45,648 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:48,668 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:51,689 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:54,705 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:10:57,723 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:00,733 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:03,754 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:06,769 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:09,783 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:12,799 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:15,814 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:18,831 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:21,840 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:24,853 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:27,862 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:30,877 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:33,889 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:36,905 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:39,920 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:40,372 ERROR [main(),odoo_food_devices.py:L290] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 19:11:41,212 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 19:11:41,212 INFO [main(),odoo_food_devices.py:L281] url: https://star.oeid.ir
+2023-05-09 19:11:41,237 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:44,268 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:47,301 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:50,330 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:53,352 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:56,384 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:11:59,417 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:02,438 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:05,467 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:08,501 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:11,530 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:14,562 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:17,591 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:20,619 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:23,640 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:26,672 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:29,705 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:32,735 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:35,774 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:38,797 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:41,822 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:44,848 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:47,882 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:50,908 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:53,938 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:56,966 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:12:59,994 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:03,015 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:06,047 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:09,079 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:12,098 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:15,125 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:18,164 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:21,194 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:24,217 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:27,247 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:30,275 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:33,307 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:36,331 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:39,368 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:42,393 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:45,424 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:48,460 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:51,494 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:54,512 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:13:57,539 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:00,578 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:03,599 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:06,632 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:09,656 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:12,682 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:15,711 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:18,744 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:21,781 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:24,816 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:27,840 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:30,866 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:33,906 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:36,933 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:39,958 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:42,982 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:46,010 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:49,034 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:52,060 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:55,085 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:14:58,110 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:01,135 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:04,162 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:07,185 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:10,221 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:13,244 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:16,267 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:19,294 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:22,326 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:25,363 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:28,393 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:31,427 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:34,456 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:37,495 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:40,533 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:43,564 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:46,596 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:49,626 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:52,656 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:55,683 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:15:58,704 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:01,740 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:04,765 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:07,795 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:10,819 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:13,854 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:16,888 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:19,931 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:22,965 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:25,984 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:29,019 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:32,048 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:35,078 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:38,105 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:41,136 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:44,162 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:47,189 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:50,221 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:53,246 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:56,269 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:16:59,288 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:17:02,325 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:17:05,358 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:17:08,397 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:17:08,963 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 19:17:10,191 INFO [main(),odoo_food_devices.py:L280] ==========  [SERVICE STARTED]  ==========
+2023-05-09 19:17:10,191 INFO [main(),odoo_food_devices.py:L281] url: https://star.oeid.ir
+2023-05-09 19:17:10,214 ERROR [this_loop(),odoo_food_devices.py:L230] ERROR: There is no "jsonrpc" in response. Check your url
+2023-05-09 19:17:12,980 ERROR [main(),odoo_food_devices.py:L287] [SERVICE Terminated] url:star.oeid.ir
+2023-05-09 19:17:19,219 INFO [install(),install.py:L9] Installing
+2023-05-09 19:34:52,660 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:34:52,662 INFO [install(),install.py:L21] Installation process completed successfully
+2023-05-09 19:35:44,031 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:35:44,031 INFO [install(),install.py:L21] Installation process completed successfully
+2023-05-09 19:37:13,543 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:37:48,784 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:40:43,546 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:41:02,970 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:45:42,151 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:45:42,152 INFO [install(),install.py:L28] Failed to install: [WinError 183] Cannot create a file when that file already exists: '/etc/odoo'
+2023-05-09 19:46:32,491 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:46:32,492 INFO [install(),install.py:L28] Failed to install: [WinError 183] Cannot create a file when that file already exists: '/etc/odoo'
+2023-05-09 19:47:08,602 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:47:08,602 INFO [install(),install.py:L28] Failed to install: [Errno 17] File exists: 'odoo_food_devices.conf'
+2023-05-09 19:47:30,755 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:47:30,755 INFO [install(),install.py:L28] Failed to install: not readable
+2023-05-09 19:47:58,958 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:47:58,958 INFO [install(),install.py:L28] Failed to install: [Errno 17] File exists: '/etc/odoo/odoo_food_devices.conf'
+2023-05-09 19:48:11,578 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:48:11,578 INFO [install(),install.py:L28] Failed to install: name 'ODOO_FOOD_DEVICES_CONF' is not defined
+2023-05-09 19:49:23,106 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:49:23,106 INFO [install(),install.py:L28] Failed to install: not readable
+2023-05-09 19:49:48,062 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:49:48,062 INFO [install(),install.py:L23] Installation process completed successfully
+2023-05-09 19:50:41,192 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:50:41,193 INFO [install(),install.py:L23] Installation process completed successfully
+2023-05-09 19:50:53,351 INFO [install(),install.py:L9] Installation process started
+2023-05-09 19:50:53,352 INFO [install(),install.py:L23] Installation process completed successfully
+2023-05-09 20:00:04,557 INFO [install(),install.py:L9] Installation process started
+2023-05-09 20:00:04,558 INFO [install(),install.py:L28] Installation process completed successfully
+2023-05-09 20:00:29,189 INFO [install(),install.py:L9] Installation process started
+2023-05-09 20:00:29,189 INFO [install(),install.py:L28] Installation process completed successfully
+2023-05-09 20:00:48,395 INFO [install(),install.py:L9] Installation process started
+2023-05-09 20:00:48,396 INFO [install(),install.py:L28] Installation process completed successfully
+2023-05-09 20:05:16,965 INFO [install(),install.py:L9] Installation process started
+2023-05-09 20:05:16,966 INFO [install(),install.py:L26] Installation process completed successfully

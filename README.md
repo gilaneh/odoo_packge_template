@@ -7,5 +7,5 @@ This package must be run as a linux service to read biometric attendance devices
 
 ## Logging
 
-The default logging file name is `"sd_food_autorun.log"` and the default directory is `"/var/log/odoo/"`.
+The default logging file name is `sd_food_autorun.log` and the default directory is `/var/log/odoo/`.
 
