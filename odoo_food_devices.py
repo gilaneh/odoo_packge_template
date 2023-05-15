@@ -6,8 +6,9 @@
 # Description: This app is intended to collect data from biometric attendance devices and send them to the odoo server.
 #
 
-from install import *
+import installer
 import read_config
+import definitions
 from time import sleep
 from time import process_time
 from time import time
@@ -23,7 +24,7 @@ import textwrap
 from urllib.parse import urlparse, urlunsplit, ParseResult
 import logging
 from logging.handlers import RotatingFileHandler
-
+_, LOG_FILE = installer.read(definitions.CONF_FILE_PATH)
 if not os.path.isfile(LOG_FILE):
     LOG_FILE = 'odoo_food_devices.log'
 
@@ -249,17 +250,17 @@ def main(args):
     parser.add_argument('--url', '-u', help='Base url of the server: e.g. https://oeid.gilaneh.com')
     parser.add_argument('--verbose', '-v',  action='count', default=0)
     parser.add_argument('--install', '-i',  action='count', default=0)
-    parser.add_argument('--config', '-c', help='config file: e.g. /etc/odoo/odoo_food_devices.conf')
+    # parser.add_argument('--config', '-c', help='config file: e.g. /etc/odoo/odoo_food_devices.conf')
     opt, unknown = parser.parse_known_args(args)
     if opt.verbose:
         verbose = True
 
     if opt.install:
-        print(install(logging, verbose))
+        print(installer.install(logging, verbose))
         sys.exit()
 
-    if opt.config:
-        url, LOG_FILE = read_config.read(opt.config)
+    # if opt.config:
+    #     url, LOG_FILE = read_config.read(opt.config)
 
     if opt.url and urlparse(opt.url).netloc:
         url_parse = urlparse(opt.url)
@@ -267,7 +268,9 @@ def main(args):
             print(url_parse, url_parse.scheme)
         scheme = url_parse.scheme if url_parse.scheme in ['http', 'https'] else 'https'
         url = scheme + '://' + url_parse.netloc + SERVER_PATH
+        # todo: write the url to config file
     elif not url:
+        # todo: check if url is in config file and use it, if not exit with error.
         logging.error(f'[PARAMS] wrong parameters \n     {str(parser.parse_known_args())}')
         parser.print_help()
         sys.exit()

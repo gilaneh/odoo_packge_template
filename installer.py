@@ -33,6 +33,7 @@ def install(logging, verbose):
 
 
 def read(config_file):
+    log_file = ''
     with open(config_file, 'r') as f:
         config_file = f.readlines()
 
@@ -42,8 +43,8 @@ def read(config_file):
             if line_splite[0].strip() == 'url':
                 url = line_splite[1].strip() 
             elif line_splite[0].strip() == 'LOG_FILE': 
-                LOG_FILE = line_splite[1].strip()
-                if not os.path.isdir(os.path.dirname(LOG_FILE)):
-                    os.makedirs(os.path.dirname(LOG_FILE))
+                log_file = line_splite[1].strip()
+                if not os.path.isdir(os.path.dirname(log_file)):
+                    os.makedirs(os.path.dirname(log_file))
 
-    return (url, LOG_FILE)
+    return (url, log_file)
