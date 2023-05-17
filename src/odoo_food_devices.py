@@ -24,22 +24,26 @@ import textwrap
 from urllib.parse import urlparse, urlunsplit, ParseResult
 import logging
 from logging.handlers import RotatingFileHandler
-try:
-    _, LOG_FILE = installer.read(definitions.CONF_FILE_PATH)
-except FileNotFoundError:
-    print(installer.install(logging, True))
-    _, LOG_FILE = installer.read(definitions.CONF_FILE_PATH)
+LOG_FILE = definitions.LOG_FILE
 
-if not os.path.isfile(LOG_FILE):
-    LOG_FILE = 'odoo_food_devices.log'
+# try:
+#     if not os.path.isfile(definitions.CONF_FILE_PATH):
+#         _, LOG_FILE = installer.read(definitions.CONF_FILE_PATH)
+#     else:
+#         LOG_FILE = definitions.LOG_FILE
+#
+# except FileNotFoundError:
+#     LOG_FILE = definitions.LOG_FILE
+
+# if not os.path.isfile(LOG_FILE):
+#     LOG_FILE = 'odoo_food_devices.log'
 
 # logging.basicConfig(filename=LOG_FILE,
 #                     level='INFO',
 #                     format='%(asctime)s %(levelname)-8s %(name)-6s %(message)s',
 #                     datefmt='%Y-%m-%d %H:%M:%S')
 log_formatter = logging.Formatter('%(asctime)s %(levelname)s [%(funcName)s(),%(filename)s:L%(lineno)d] %(message)s')
-my_handler = RotatingFileHandler(LOG_FILE, mode='a', maxBytes=10*1024*1024, 
-                                 backupCount=3, encoding=None, delay=0)
+my_handler = RotatingFileHandler(LOG_FILE, mode='a', maxBytes=10*1024*1024, backupCount=3, encoding=None, delay=0)
 my_handler.setFormatter(log_formatter)
 my_handler.setLevel(logging.INFO)
 app_log = logging.getLogger('root')

@@ -1,6 +1,6 @@
 CONF_FILE_PATH = '/etc/odoo/odoo_food_devices.conf'
-LOG_FILE = '/var/log/odoo/sd_food_autorun.log'
-SERVICE_PATH = '/usr/lib/systemd/system/odoo_food_devices.conf'
+LOG_FILE = '/var/log/odoo/odoo_food_autorun.log'
+SERVICE_PATH = '/usr/lib/systemd/system/odoo_food_devices.service'
 url = ''
 LOG_FILE = 'odoo_food_devices.log'
 
