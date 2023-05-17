@@ -24,7 +24,12 @@ import textwrap
 from urllib.parse import urlparse, urlunsplit, ParseResult
 import logging
 from logging.handlers import RotatingFileHandler
-_, LOG_FILE = installer.read(definitions.CONF_FILE_PATH)
+try:
+    _, LOG_FILE = installer.read(definitions.CONF_FILE_PATH)
+except FileNotFoundError:
+    print(installer.install(logging, True))
+    _, LOG_FILE = installer.read(definitions.CONF_FILE_PATH)
+
 if not os.path.isfile(LOG_FILE):
     LOG_FILE = 'odoo_food_devices.log'
 

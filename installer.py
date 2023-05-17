@@ -1,28 +1,32 @@
 import os
 import definitions
+from colorama import Fore
 
 
 def install(logging, verbose):
     try:
-        print("Installation process started")
+        print(Fore.GREEN, "Installation process started", Fore.RESET)
+        print(Fore.RED, 'create CONF:', os.path.isfile(os.path.basename(definitions.CONF_FILE_PATH)), Fore.RESET)
         logging.info("Installation process started")
 
         # if conf file is not exists then create it
         if not os.path.exists(os.path.dirname(definitions.CONF_FILE_PATH)):
             os.makedirs(os.path.dirname(definitions.CONF_FILE_PATH))
+        
+        
 
         if not os.path.isfile(os.path.basename(definitions.CONF_FILE_PATH)):
             with open(definitions.CONF_FILE_PATH, 'w') as f:
-                f.write(definitions.CONF)
-
+                print(Fore.RED, 'create CONF:', f.write(definitions.CONF), Fore.RESET)
+                
         # if the service is exists, update it
         if not os.path.isfile(os.path.basename(definitions.SERVICE_PATH)):
             with open(definitions.SERVICE_PATH, 'w') as f:
-                f.write(definitions.SERVICE)
+                print(Fore.BLUE,'create SERVICE:', f.write(definitions.SERVICE), Fore.RESET)
 
 
 
-        print("Installation process completed successfully")
+        print(Fore.CYAN,"Installation process completed successfully", Fore.RESET)
         logging.info("Installation process completed successfully")
         return True
     except Exception as e:
