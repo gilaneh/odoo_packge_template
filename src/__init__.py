@@ -1,0 +1,2 @@
+
+from odoo_package_template import main
