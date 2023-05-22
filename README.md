@@ -1,14 +1,7 @@
-# odoo food devices
+# odoo Package Template
 
-This package is part of odoo module "sd_food" which is intended to be used as restaurant management. 
-It might be useful for a company with in-house restaurant which its employees needed to reserve thier upcomming days food.
+This package can be use as a template to create pypi package.
+Its name comes from my interest on odoo platform. I prepared it first time to create odoo_fooo_devices package.
+While I was working on it, I decided to have a template package which help me in the future works.
 
-This package must be run as a linux service to read biometric attendance devices locally.
-
-## Logging
-
-The default logging file name is `sd_food_autorun.log` and the default directory is `/var/log/odoo/`.
-
-## Installation
-
-1- `pip install `
+You can find [setup.md](https://github.com/gilaneh/odoo_packge_template/blob/main/setup.md)
